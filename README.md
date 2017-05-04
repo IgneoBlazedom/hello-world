@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-A bit about yourself
+A bit about yourself, I don't think this is usefull at all :D
